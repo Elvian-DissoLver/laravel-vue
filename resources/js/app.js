@@ -3,7 +3,6 @@ require('./bootstrap');
 import Vue, {createApp} from 'vue'
 // import * as Vue from 'vue'
 import Example from './components/Example.vue';
-import axios from 'axios';
 
 // new Vue({
 //     el: '#app',
